@@ -1,0 +1,52 @@
+{
+    "{$kUu#Tmu1jz!yM#bqE,": {
+        "data": "hwQNAA0AAAAAAADAAAAAAAAAAMAKAAAAAAAAoMoAAAAAACKsqgAAAAAiRKyqCgAAIEJUqqrKAAAiRFWqlqoMACBCVKyqqgAAACJErKoMAAAAACKsqgAAAAAAAKCqAAAAAAAAwAoAAAAAAADAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Vaisseau_bas"
+    },
+    "7(P,x6NhH8`:qJIEZ": {
+        "data": "hwQNAA0AAAAAAAACAAAAAAAAICIAAAAAAAAiJAIAAAAAAEJEAgAAAAAgREUkAAAAACBUVSQAAAAAwMyqzAAAAMyqqqqqygwAoKqqpqqqAAAAqqqpqgwAAAAArKoKAAAAAACgygAAAAAAAAAMAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Vaisseau_droite"
+    },
+    "6{M=zUkK,dws-}bYYnC}": {
+        "data": "hwQNAA0AAAAAAAAMAAAAAAAAwKoAAAAAAACqqgwAAAAArKqpqgoAAKCqqqaqqgAAzKqqqqrKDAAAwKzKzAAAAAAgVFUkAAAAACBERSQAAAAAAEJEAgAAAAAAIiQCAAAAAAAgIgAAAAAAAAACAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Vaisseau_gauche"
+    },
+    "image1": {
+        "data": "hwQNAA0AAAAAAMAAAAAAAAAAygAAAAAAAMCqAAAAAAAAoKosAgAAAACsqkwkAgAAoKqqXEQiAACsmqZaRSQCAMCqqlpEIgAAAKqqTCQCAAAAoKosAgAAAADAqgAAAAAAAADKAAAAAAAAAMAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Vaisseau"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIiIiIiIgAwMzMzMzMzAxEREREREREREREREREREREwMzMzMzMzAwAiIiIiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Rayon_1"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAQAQAAAAAAABMxAAAAAAAgEzECAAAAACATMQIAAAAAIBMxAgAAAAAgEzECAAAAACATMQIAAAAAIBMxAgAAAAAgEzECAAAAACATMQIAAAAAIBMxAgAAAAAgEzECAAAAACATMQIAAAAAIBMxAgAAAAAAEzEAAAAAAAAQAQAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Rayon_2"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAf8f//AAAAAB/x8f8AAAAA///x/wAAAAD///H/AAAAAB/x8f8AAAAAH/H//wAAAAD/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Wither_Head"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAPAAAAAADw//8PAAAAAP////8AIADw/////w/QAPAf8f//DwDd/x//////AND///////8AAPD/////DwAA8P////8PAAAA/////wAAAADw//8PAAAAAADwDwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bombe"
+    },
+    "image7": {
+        "data": "hwQPAA8AAAAAAP///w8AAAD/ERER8Q8A8BFVVVVV9QDwUVVVVVX1AB9VFRERVUUPH1VRVVVfRQ8fVVFVVV9FDx9VUVVVX0UPH1VRVVVfRQ8fVVFVVV9FDx9V9f//VUUP8FVVVVVV9ADwRFVVVUX0AAD/RERE9A8AAAD///8PAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pièce"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
